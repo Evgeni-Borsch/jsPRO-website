@@ -1,2 +1,2 @@
 # jsPRO-website
-This is "Irvas" website. Company for the sale of windows for apartments and balcony glazing.
+This website is for Irvas. The company specializes in window sales and balcony glazing.
